@@ -9,8 +9,6 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://github.com/adityamo)
 [![Linkedin](https://www.linkedin.com/in/aditya-septama-halim/)
 [![Instagram](https://www.instagram.com/septama_dev/profilecard/?igsh=MXQ1enJwNXFpc2loOQ==)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 
 &nbsp;
 
@@ -20,11 +18,10 @@ Hello i’m from indonesian, i have a career in IT System and Development for mo
 
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="adityamoThumbnail" src="https://tdgtogocvohbndxukcbk.supabase.co/storage/v1/object/public/focastorage/github/a3726087886_10.jpg?t=2024-12-11T14%3A16%3A43.079Z" />
+<img width="25%" align="right" alt="adityamoThumbnail" src="https://tdgtogocvohbndxukcbk.supabase.co/storage/v1/object/public/focastorage/github/a3726087886_10.jpg?t=2024-12-11T14%3A16%3A43.079Z" />
 
 - 👨🏽‍💻 I’m currently working on PT Seino Indomobil Logistics;
 - 🌱 I’m currently focus on web development with NextJs; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
 - 🤔 I’m Pasionate with Artwork and Design;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Building a successfull apps is challenge, I am highly energetic in user experience, user interface and web development;
@@ -48,7 +45,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svgg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
 
 </p>
 
