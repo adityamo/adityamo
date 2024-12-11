@@ -5,10 +5,9 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/adityamo/)](https://github.com/adityamo) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-septama-halim/)](https://www.linkedin.com/in/aditya-septama-halim)
 
-[![Github](https://github.com/adityamo)
-[![Linkedin](https://www.linkedin.com/in/aditya-septama-halim/)
-[![Instagram](https://www.instagram.com/septama_dev/profilecard/?igsh=MXQ1enJwNXFpc2loOQ==)
 
 &nbsp;
 
@@ -18,7 +17,7 @@ Hello i’m from indonesian, i have a career in IT System and Development for mo
 
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="25%" align="right" alt="adityamoThumbnail" src="https://tdgtogocvohbndxukcbk.supabase.co/storage/v1/object/public/focastorage/github/a3726087886_10.jpg?t=2024-12-11T14%3A16%3A43.079Z" />
+<img width="25%" align="right" alt="adityamoThumbnail" style="padding-top:'5px'" src="https://tdgtogocvohbndxukcbk.supabase.co/storage/v1/object/public/focastorage/github/a3726087886_10.jpg?t=2024-12-11T14%3A16%3A43.079Z" />
 
 - 👨🏽‍💻 I’m currently working on PT Seino Indomobil Logistics;
 - 🌱 I’m currently focus on web development with NextJs; 
